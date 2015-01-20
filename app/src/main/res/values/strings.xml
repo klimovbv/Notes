@@ -8,6 +8,6 @@
     <string name="nameNote">Имя заметки:</string>
     <string name="textNote">Текст заметки:</string>
     <string name="hintNameNote">Введите название заметки</string>
-    <string name="hintTextNote">Ведите текст заметки</string>
+    <string name="hintTextNote">Введите текст заметки</string>
 
 </resources>
